@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning spring, spring boot and web technology
 - 📫 Feel free to connect me on hlan1559@gmail.com
 - 😄 Pronouns: square...
-- ⚡ Fun fact: I know how to code, but I don't know how to flirt a girl.(means I am single)
+- ⚡ Fun fact: I can hack META with javafx.
 
 <!---
 HlanHtetKyaw/HlanHtetKyaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
